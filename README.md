@@ -19,8 +19,6 @@
   
   <br><br/>  <br><br/> 
 
-![hyoring030's github stats](https://github-readme-stats.vercel.app/api?username=hyoring030&show_icons=true)  
-  
  </div>
 
 
