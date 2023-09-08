@@ -1,7 +1,7 @@
 <div align="center"> 
   
 ####  :wave: Welcome,
-  I'm interested in frontend.
+  I'm interested in front-end.
  <br/>
  <br/>
   
