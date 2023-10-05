@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
   
   <br><br/>  <br><br/> 
-
+- 🌱 I’m currently learning iOS :) 
  </div>
 
-- 🌱 I’m currently learning iOS :) 
+
 
 <!--
 **hyoring030/hyoring030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
