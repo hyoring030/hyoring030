@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7A1CD&width=435&lines=%F0%9F%91%8B+Welcome+to+hyori's+github" alt="Typing SVG" /></a>
 
 
-  I'm interested in front-end.
  <br/>
  <br/>
   
